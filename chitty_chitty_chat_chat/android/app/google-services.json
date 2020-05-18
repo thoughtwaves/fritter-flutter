@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "762826649558",
+    "firebase_url": "https://chitty-chitty-chat-chat.firebaseio.com",
+    "project_id": "chitty-chitty-chat-chat",
+    "storage_bucket": "chitty-chitty-chat-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762826649558:android:d6551991f5ee0caa4f3e77",
+        "android_client_info": {
+          "package_name": "com.example.chitty_chitty_chat_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762826649558-si7btpkqp4q4q0i59rlnkdmqjsme14qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-9o8NtpQgFZ7D83Bus36o-bKQWep6RKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762826649558-si7btpkqp4q4q0i59rlnkdmqjsme14qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
